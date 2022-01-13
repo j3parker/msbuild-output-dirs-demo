@@ -1,0 +1,16 @@
+C:\mnt\c\src\scratch\test\out\abc.exe
+C:\mnt\c\src\scratch\test\out\abc.deps.json
+C:\mnt\c\src\scratch\test\out\abc.runtimeconfig.json
+C:\mnt\c\src\scratch\test\out\abc.dll
+C:\mnt\c\src\scratch\test\out\ref\abc.dll
+C:\mnt\c\src\scratch\test\out\abc.pdb
+C:\src\scratch\test\abc\obj\Debug\net6.0\abc.csproj.AssemblyReference.cache
+C:\src\scratch\test\abc\obj\Debug\net6.0\abc.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\scratch\test\abc\obj\Debug\net6.0\abc.AssemblyInfoInputs.cache
+C:\src\scratch\test\abc\obj\Debug\net6.0\abc.AssemblyInfo.cs
+C:\src\scratch\test\abc\obj\Debug\net6.0\abc.csproj.CoreCompileInputs.cache
+C:\src\scratch\test\abc\obj\Debug\net6.0\abc.csproj.CopyComplete
+C:\src\scratch\test\abc\obj\Debug\net6.0\abc.dll
+C:\src\scratch\test\abc\obj\Debug\net6.0\ref\abc.dll
+C:\src\scratch\test\abc\obj\Debug\net6.0\abc.pdb
+C:\src\scratch\test\abc\obj\Debug\net6.0\abc.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JmOFSYI+Dodj6DAasiZWmOKXMFJ6f49+0j1FQrhgTLrN8OGSAfyTEp8RuBUSxHkCR36eBVjN88PRlqN8c1VaJw==",
+  "success": true,
+  "projectFilePath": "C:\\src\\scratch\\test\\abc\\abc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jparker\\.nuget\\packages\\awssdk.core\\3.7.5.13\\awssdk.core.3.7.5.13.nupkg.sha512",
+    "C:\\Users\\jparker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

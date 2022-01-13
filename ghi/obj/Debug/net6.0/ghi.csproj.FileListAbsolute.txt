@@ -1,0 +1,16 @@
+C:\src\scratch\test\out\net6.0\ghi.exe
+C:\src\scratch\test\out\net6.0\ghi.deps.json
+C:\src\scratch\test\out\net6.0\ghi.runtimeconfig.json
+C:\src\scratch\test\out\net6.0\ghi.dll
+C:\src\scratch\test\out\net6.0\ref\ghi.dll
+C:\src\scratch\test\out\net6.0\ghi.pdb
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ghi.csproj.AssemblyReference.cache
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ghi.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ghi.AssemblyInfoInputs.cache
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ghi.AssemblyInfo.cs
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ghi.csproj.CoreCompileInputs.cache
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ghi.csproj.CopyComplete
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ghi.dll
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ref\ghi.dll
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ghi.pdb
+C:\src\scratch\test\ghi\obj\Debug\net6.0\ghi.genruntimeconfig.cache

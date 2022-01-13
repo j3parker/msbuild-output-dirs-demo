@@ -1,0 +1,11 @@
+C:\mnt\c\src\scratch\test\out\lib.deps.json
+C:\mnt\c\src\scratch\test\out\lib.dll
+C:\mnt\c\src\scratch\test\out\ref\lib.dll
+C:\mnt\c\src\scratch\test\out\lib.pdb
+C:\src\scratch\test\lib\obj\Debug\net6.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\scratch\test\lib\obj\Debug\net6.0\lib.AssemblyInfoInputs.cache
+C:\src\scratch\test\lib\obj\Debug\net6.0\lib.AssemblyInfo.cs
+C:\src\scratch\test\lib\obj\Debug\net6.0\lib.csproj.CoreCompileInputs.cache
+C:\src\scratch\test\lib\obj\Debug\net6.0\lib.dll
+C:\src\scratch\test\lib\obj\Debug\net6.0\ref\lib.dll
+C:\src\scratch\test\lib\obj\Debug\net6.0\lib.pdb

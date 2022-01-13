@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dW5LX6zxXesmaAwDz8LcEwZQdX70LBraOvDIqwawydg9+yoelzUW5PscsfH4HGSHdONe4tXZYgr7x586G/+jag==",
+  "success": true,
+  "projectFilePath": "C:\\src\\scratch\\test\\def\\def.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jparker\\.nuget\\packages\\awssdk.core\\3.7.5.13\\awssdk.core.3.7.5.13.nupkg.sha512"
+  ],
+  "logs": []
+}

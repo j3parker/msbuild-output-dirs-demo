@@ -1,0 +1,13 @@
+C:\src\scratch\test\lib\obj\Debug\netstandard2.0\lib.csproj.AssemblyReference.cache
+C:\src\scratch\test\lib\obj\Debug\netstandard2.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\scratch\test\lib\obj\Debug\netstandard2.0\lib.AssemblyInfoInputs.cache
+C:\src\scratch\test\lib\obj\Debug\netstandard2.0\lib.AssemblyInfo.cs
+C:\src\scratch\test\lib\obj\Debug\netstandard2.0\lib.csproj.CoreCompileInputs.cache
+C:\src\scratch\out\netstandard2.0\lib.deps.json
+C:\src\scratch\out\netstandard2.0\lib.dll
+C:\src\scratch\out\netstandard2.0\lib.pdb
+C:\src\scratch\test\lib\obj\Debug\netstandard2.0\lib.dll
+C:\src\scratch\test\lib\obj\Debug\netstandard2.0\lib.pdb
+C:\src\scratch\test\out\netstandard2.0\lib.deps.json
+C:\src\scratch\test\out\netstandard2.0\lib.dll
+C:\src\scratch\test\out\netstandard2.0\lib.pdb
